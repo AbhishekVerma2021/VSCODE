@@ -1,0 +1,37 @@
+.List
+{
+  list-style: none;
+  display: inline-flex;
+  float: left;
+  border: 1.5px solid black;
+}
+.imga
+{
+  width: 200px;
+  height: 300px;
+}
+.butt
+{
+  color: brown;
+  border: 1px solid crimson;
+  border-radius: 2px;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+}
+.card 
+{
+  background-color: rgb(0, 255, 242);
+  margin: 12px 12px;
+  border-radius: 7px;  
+  border: 2px solid red;
+  display: inline-block;
+  justify-content: center;
+}
+.image
+{
+  border: 2px solid navy;
+  display: inline-block;
+  border-radius: 5px;
+  justify-content: center;
+}
