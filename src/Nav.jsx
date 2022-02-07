@@ -5,11 +5,13 @@ function navbar()
     return(<>
         <nav >
         <ul className="navbar">
-          <li>Home</li>
-          <li>About</li>
-          <li>Services</li>
-          <li>Contact</li>
+          <li className="List">Home</li>
+          <li className="List">About</li>
+          <li className="List">Services</li>
+          <li className="List">Contact</li>
         </ul>
       </nav>
+      <br/>
     </>);
 }
+export default navbar;
