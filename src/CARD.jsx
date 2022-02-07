@@ -4,7 +4,7 @@ import './index.css';
 function Card(props) {
     return (
         <>
-
+            <h1>Abhishek Verma</h1>
             <div className="card">
                 <div className="image">
                     <img src={props.imgsrc} className="imga" />
